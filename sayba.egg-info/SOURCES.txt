@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+sayba/__init__.py
+sayba.egg-info/PKG-INFO
+sayba.egg-info/SOURCES.txt
+sayba.egg-info/dependency_links.txt
+sayba.egg-info/requires.txt
+sayba.egg-info/top_level.txt
